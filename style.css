@@ -125,6 +125,14 @@ div#content-card h3 {
   margin-bottom: 4px;
 }
 
+ul>li {
+  margin-left: 20px;
+}
+
+ul>li::marker {
+ color: #333333;;
+}
+
 .divisor {
   width: 100%;
   height: 0px;
